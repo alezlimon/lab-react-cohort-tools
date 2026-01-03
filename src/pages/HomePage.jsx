@@ -1,3 +1,4 @@
+// Note: This page shows the list of students. Each student card is a link to their details page.
 import { useState } from "react";
 import StudentCard from "../components/StudentCard";
 
